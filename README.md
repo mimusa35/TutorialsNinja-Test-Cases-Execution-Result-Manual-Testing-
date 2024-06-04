@@ -7,3 +7,5 @@ Bugs are reported in 'Zoho' URL: https://bugtracker.zoho.com/portal/tutorialsnin
 Credentials: 
 Email: tutorialsninjaecommerce@gmail.com
 Pass: mimusaazimmim
+
+Bugs and Blockers are also listed in 'Zoho Bug Report'.
