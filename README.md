@@ -1,5 +1,5 @@
 # Tutorialsninja-Test-Cases-Execution-Result-Manual-Testing-
-Test Cases with Execution Result of all functionalities of the demo web application TutorialsNinja (https://tutorialsninja.com/demo/)
+Test Cases with Execution Result of all functionalities of the demo web application TutorialsNinja (https://tutorialsninja.com/demo/) (https://demo.opencart.com/)
 
 Domain: eCommerce
 Bug Tracking Tool: Zoho
