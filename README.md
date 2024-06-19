@@ -12,3 +12,5 @@ Pass: mimusaazimmim
 Bugs and Blockers are also listed in 'Zoho Bug Report'.
 
 And finally 'Quality Report' of this application is prepared.
+
+https://www.researchgate.net/publication/377900487_A_soft_voting_ensemble_learning_approach_for_credit_card_fraud_detection 
