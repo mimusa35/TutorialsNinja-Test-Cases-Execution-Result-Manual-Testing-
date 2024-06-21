@@ -13,4 +13,4 @@ Bugs and Blockers are also listed in 'Zoho Bug Report'.
 
 And finally 'Quality Report' of this application is prepared.
 
-https://github.com/mimusa35/Tutorialsninja-Test-Cases-Execution-Result-Manual-Testing-
+https://github.com/mimusa35/OrangeHRM--Manual-Testing 
