@@ -10,5 +10,4 @@ Email: tutorialsninjaecommerce@gmail.com
 Pass: mimusaazimmim
 
 Bugs and Blockers are also listed in 'Zoho Bug Report'.
-
 And finally 'Quality Report' of this application is prepared.
